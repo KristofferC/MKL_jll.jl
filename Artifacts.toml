@@ -1,0 +1,9 @@
+[[MKL]]
+arch = "x86_64"
+git-tree-sha1 = "1833b1a510e56d34f69dd55049dbf691d968654a"
+lazy = true
+os = "macos"
+
+    [[MKL.download]]
+    sha256 = "696f4e42df338c8bf88d4f5d387e0ad9a35d9c7d13868508d7f706c20a8cf8ac"
+    url = "https://github.com/KristofferC/MKL_jll.jl/releases/download/MKL-v2020.0.166+1/MKL.v2020.0.166.x86_64-apple-darwin14.tar.gz"
